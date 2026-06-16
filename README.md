@@ -262,9 +262,3 @@ http://localhost:8501
 | Web App | Streamlit |
 | Visualizations | Plotly |
 | Persistence | Joblib |
-
----
-
-# License
-
-This project is developed for educational and research purposes.
